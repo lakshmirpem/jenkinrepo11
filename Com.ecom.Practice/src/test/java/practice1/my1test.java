@@ -8,6 +8,7 @@ public class my1test
 public void show() 
 {
 	System.out.println("hiijava");
+	System.out.println("hello");
 		
 	
 }
